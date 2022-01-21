@@ -9,6 +9,8 @@ A notebook about commonly used machine learning algorithms, containing:
 - Logistic Regression for
   - Binary Classification
   - Multiclass Classification
+- Decision Trees
+- Support Vector Machines
 
 ![result](img/linear.png)
 ![result](img/sigmoid.png)
