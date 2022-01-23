@@ -11,6 +11,7 @@ A notebook about commonly used machine learning algorithms, containing:
   - Multiclass Classification
 - Decision Trees
 - Support Vector Machines
+- Random Forest Classifier
 
 ![result](img/linear.png)
 ![result](img/sigmoid.png)
