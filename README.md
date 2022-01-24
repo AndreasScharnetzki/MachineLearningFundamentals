@@ -14,6 +14,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - Random Forest Classifier
 - K-Means Clustering
 
-![result](img/linear.png)
-![result](img/sigmoid.png)
-![result](img/cm.png)
+<br>![result](img/linear.png)
+<br>![result](img/sigmoid.png)
+<br>![result](img/cluster.png)
+<br>![result](img/cm.png)
