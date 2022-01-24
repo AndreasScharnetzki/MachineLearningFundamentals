@@ -12,6 +12,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - Decision Trees
 - Support Vector Machines
 - Random Forest Classifier
+- K-Means Clustering
 
 ![result](img/linear.png)
 ![result](img/sigmoid.png)
