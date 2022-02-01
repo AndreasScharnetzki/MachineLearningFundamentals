@@ -6,13 +6,12 @@ A notebook about commonly used machine learning algorithms, containing:
 
 - Univariate Linear Regression
 - Multivariate Linear Regression
-- Logistic Regression for
-  - Binary Classification
-  - Multiclass Classification
+- Binary & Multiclass Logistic Regression
 - Decision Trees
 - Support Vector Machines
 - Random Forest Classifier
 - K-Means Clustering
+- Naive Bayes Classifier
 
 <br>![result](img/linear.png)
 <br>![result](img/sigmoid.png)
