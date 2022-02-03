@@ -12,6 +12,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - Random Forest Classifier
 - K-Means Clustering
 - Naive Bayes Classifier
+- L1, L2 Regularization
 
 <br>![result](img/linear.png)
 <br>![result](img/sigmoid.png)
