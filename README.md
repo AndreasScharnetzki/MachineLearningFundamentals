@@ -14,6 +14,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - Naive Bayes Classifier
 - L1, L2 Regularization
 - K-Nearest Neigbour Classifier (KNN)
+- Principal Component Analysis (PCA)
 
 <br>![result](img/linear.png)
 <br>![result](img/sigmoid.png)
