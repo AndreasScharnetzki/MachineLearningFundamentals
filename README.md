@@ -8,7 +8,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - Multivariate Linear Regression
 - Binary & Multiclass Logistic Regression
 - Decision Trees
-- Support Vector Machines
+- Support Vector Machines (SVM)
 - Random Forest Classifier
 - K-Means Clustering
 - Naive Bayes Classifier
