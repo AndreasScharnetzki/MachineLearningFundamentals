@@ -1,4 +1,4 @@
-<font size="2">src: [Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ) by Dhaval Patel</font>
+<font size="2"> Based on the [Machine Learning Tutorial Series](https://www.youtube.com/watch?v=gmvvaobm7eQ) by Dhaval Patel</font>
 
 # Machine Learning Fundamentals
 
