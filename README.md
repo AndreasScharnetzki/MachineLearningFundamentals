@@ -15,6 +15,7 @@ A notebook about commonly used machine learning algorithms, containing:
 - L1, L2 Regularization
 - K-Nearest Neigbour Classifier (KNN)
 - Principal Component Analysis (PCA)
+- Bootstrap Aggregation (Bagging)
 
 <br>![result](img/linear.png)
 <br>![result](img/sigmoid.png)
